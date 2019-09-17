@@ -1,0 +1,2 @@
+# Vyuka
+vyuka pythonu
